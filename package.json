@@ -1,0 +1,13 @@
+{
+  "name": "python-serverless",
+  "version": "1.0.0",
+  "author": "DiogoTheCoder",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "serverless offline start"
+  },
+  "devDependencies": {
+    "serverless-offline": "^6.7.0"
+  }
+}
